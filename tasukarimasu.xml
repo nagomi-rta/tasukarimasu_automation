@@ -5319,6 +5319,7 @@
                   <JqEffect>None</JqEffect>
                   <PosBase>MiddleCenter</PosBase>
                 </TE3PosOption>
+<!--       second start           -->
                 <TE3PosOption>
                   <BoolSettings xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
                     <d10p1:KeyValueOfstringboolean>
@@ -6687,6 +6688,7 @@
                   <JqEffect>None</JqEffect>
                   <PosBase>MiddleCenter</PosBase>
                 </TE3PosOption>
+<!--       2point get           -->
                 <TE3PosOption>
                   <BoolSettings xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
                     <d10p1:KeyValueOfstringboolean>
