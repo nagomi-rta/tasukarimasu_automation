@@ -19,7 +19,7 @@
 ・作ったタグに任意の画像を設定する(このとき設定した画像がﾀｽｶﾘﾏｽ)<br>
 ・位置・音量・遅延タブの設定は一切触らないこと<br>
 ・TanuEsa3.x.x\settings\triggers.xmlファイルをテキストエディタなどで開く<br>
-  このとき開くファイルを以下triggers.xmlとする<br>
+  このとき開くファイルを以下triggers.xmlとする<br><br>
 ※ここまでの設定はテキストに限らずチャネポ報酬などでも問題ない筈<br>
 
 ・before.xmlとtriggers.xmlの差分を表示する<br>
